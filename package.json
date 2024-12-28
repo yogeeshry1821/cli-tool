@@ -1,6 +1,6 @@
 {
-  "name": "@yogeesh21/cli-tool",
-  "version": "1.0.0",
+  "name": "@yogeeshry1821/cli-tool",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,10 @@
     "cli-tool": "index.js"
   },
   "dependencies": {
-    "@yogeesh21/cli-tool": "^1.0.0",
+    "@yogeeshry1821/cli-tool": "^1.0.0",
     "commander": "^12.1.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
