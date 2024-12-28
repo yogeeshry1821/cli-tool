@@ -1,0 +1,19 @@
+{
+  "name": "@yogeesh21/cli-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "cli-tool": "index.js"
+  },
+  "dependencies": {
+    "@yogeesh21/cli-tool": "^1.0.0",
+    "commander": "^12.1.0"
+  }
+}
